@@ -119,7 +119,7 @@ pip install -r requirements.txt
 ### Generate similarity file locally
 
 ```
-python model.py
+python model.py #Will take time 
 ```
 
 ### 3. Run the App
