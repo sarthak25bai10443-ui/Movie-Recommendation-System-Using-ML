@@ -106,8 +106,8 @@ project/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/AdishAZ/Movie-Recommendation-System-using-ML.git
-cd YOUR_REPO_NAME
+git clone https://github.com/sarthak25bai10443-ui/Movie-Recommendation-System-Using-ML
+cd Movie-Recommendation-System-Using-ML
 ```
 
 ### 2. Install Dependencies
