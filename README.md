@@ -177,8 +177,8 @@ Recommended Movies:
 
 ##  Author
 
-**Sarthak Jajodia**
-B.Tech AI & ML
+**Sarthak Jajodia**  
+B.Tech AI & ML  
 VIT Bhopal
 
 ---
