@@ -132,7 +132,8 @@ streamlit run app.py
 
 ## Screenshots
 
-![Recommendation System]({FB4C55A2-17E6-4A85-B6EC-495D67DE6BA5}.png)
+<img width="989" height="801" alt="{E924F007-ADBB-43D7-9C45-3DE07E8CE972}" src="https://github.com/user-attachments/assets/f0c6548a-469f-4552-ac6e-d2176e4c2be6" />
+
 ---
 
 ## 📊 Example Output
@@ -176,7 +177,7 @@ Recommended Movies:
 
 ##  Author
 
-**Adish Jain**
+**Sarthak Jajodia**
 B.Tech AI & ML
 VIT Bhopal
 
